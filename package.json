@@ -1,0 +1,18 @@
+{
+    "name": "neo4jbackend",
+    "version": "1.0.0",
+    "description": "neo4j back end application",
+    "main": "app.js",
+    "scripts": {
+        "test": " "
+    },
+    "author": "Isur",
+    "license": "ISC",
+    "dependencies": {
+        "express": "*",
+        "body-parser": "*",
+        "ejs": "^2.4.2",
+        "morgan": "*",
+        "neo4j-driver": "*"
+    }
+}
