@@ -59,6 +59,6 @@ app.post('/movie/add', function(req, res) {
 });
 
 app.listen(3000);
-console.log('server statered');
+console.log('server started Successfully');
 
 module.exports = app;
